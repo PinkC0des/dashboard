@@ -1,0 +1,27 @@
+.sidebar {
+  background-color: #fff;
+  backdrop-filter: blur(10px);
+  height: 100%;
+  position: relative;
+  width: 250px;
+}
+
+.boxArrowBtn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+  padding: 14px;
+  display: flex;
+  align-items: center;
+}
+
+.arrowBtn {
+  background-color: transparent;
+  border: 1px solid #000;
+  color: #000;
+  border-radius: 100%;
+  width: 25px;
+  height: 25px;
+  font-size: 0.8rem;
+}
