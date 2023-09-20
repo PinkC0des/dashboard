@@ -42,6 +42,10 @@
   outline: none;
 }
 
+.searchBox svg {
+  color: #fff;
+}
+
 .avatasBox img {
   width: 32px;
   height: 32px;

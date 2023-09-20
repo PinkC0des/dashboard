@@ -21,6 +21,7 @@ export default function SideBar({ toogle }: { toogle: boolean }) {
           alt="logo"
         />
       </div>
+      <div></div>
     </section>
   );
 }

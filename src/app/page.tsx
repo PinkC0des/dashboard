@@ -1,5 +1,9 @@
-import HomePage from "@/app/home/page";
+import LoginPage from "@/app/login/page";
 
 export default function Home() {
-  return <HomePage />;
+  return (
+    <>
+      <LoginPage />
+    </>
+  );
 }
